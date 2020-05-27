@@ -1,5 +1,5 @@
 {
-  "name": "@test/a",
+  "name": "test",
   "version": "1.0.3",
   "description": "",
   "main": "a.js",
@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "cbfd88a5ea39c495dd0099e9a11d911f5e2fb57f",
+  "gitHead": "6e28ba74a9e50066c23170592b4eab69f668244d",
   "publishConfig": {
     "access": "public"
   }
