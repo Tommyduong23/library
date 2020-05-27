@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "@tommytech/test",
   "version": "1.0.6",
   "description": "",
   "main": "a.js",
@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "c8a34d32fd1fdb42d92adfe8baa8ac7bd68d31fa",
+  "gitHead": "67aa8cdb036be4491328a6739770f39016b6a0fe",
   "publishConfig": {
     "access": "public"
   }
